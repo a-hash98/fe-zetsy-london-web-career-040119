@@ -1,5 +1,5 @@
 /*////////////// Fonts //////////////*/
-
+@import url('https://fonts.googleapis.com/css?family=Baskerville');
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
@@ -7,7 +7,7 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
@@ -16,5 +16,19 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 }
+
+h1 {
+	font-size: 90px;
+	font-colour: rgb(152,173,166);
+	font-family: 'Baskerville', serif;
+}
+
+h2 {
+	font-size: 16px;
+	font-colour: #6F7F7A
+	font-weight: bold;
+}
+
+
 
 /* Write all remaining styles here */
